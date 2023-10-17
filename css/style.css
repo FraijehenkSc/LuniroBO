@@ -40,6 +40,45 @@ body{
     font-size: 1.2rem;
 }
 
+.article-style{
+    background-color: #5E6073;
+    padding-top: 4rem;
+    padding-bottom: 8rem;
+    margin: 0, auto;
+    padding-left: 26rem;
+    padding-right: 26rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.cta-article{
+    align-items: end;
+    margin-top: 16rem;
+    margin-bottom: 4rem;
+}
+
+.h2-style{
+    font-size: 4rem;
+    color: #B2D3BE;
+}
+
+.cta-button{
+    text-decoration: none;
+    background-color: #B2D3BE;
+    border-radius: 0.2rem;
+    padding: 0.8rem;
+    color: #5E6073;
+    font-weight: bold;
+    width: fit-content;
+    font-size: 1.6rem;
+}
+
+.sdg-p{
+    color: #B2D3BE;
+    font-size: 2rem;
+    padding-top: 1.2rem;
+}
+
 .footer{
     background-color: #89A3B2;
     margin-top: 8rem;
